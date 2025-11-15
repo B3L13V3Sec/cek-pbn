@@ -1,1 +1,1 @@
-# cek-pbn
+Usage: python main.py domains.txt
